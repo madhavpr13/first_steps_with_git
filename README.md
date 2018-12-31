@@ -1,1 +1,1 @@
-README for git project
+A README file for the git project
