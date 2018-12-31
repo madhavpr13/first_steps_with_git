@@ -1,0 +1,3 @@
+Some random piece of text
+
+Modified after reset HEAD
