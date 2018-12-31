@@ -1,2 +1,3 @@
 This is a sample file
 for my first commit to Git
+Another line in the text file for demonstrating unstaging and reset command
