@@ -1,2 +1,5 @@
 #Ignoring all text files in direc/
 direc/*.txt
+
+
+*.orig
